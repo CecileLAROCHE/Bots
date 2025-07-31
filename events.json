@@ -1,0 +1,16 @@
+[
+  {
+    "name": "tournois",
+    "channel_id": 1081574949493416045,
+    "time": "2025-07-31 14:10",
+    "repeat": "weekly",
+    "message": "🎮 Tournoi d'aliance !"
+  },
+  {
+    "name": "Réunion",
+    "channel_id": 1081574949493416045,
+    "time": "2025-07-31 14:15",
+    "repeat": "daily",
+    "message": "📢 Réunion quotidienne à 10h !"
+  }
+]
