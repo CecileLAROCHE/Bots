@@ -4,4 +4,4 @@
 source venv/bin/activate
 
 # Lancer le bot Discord
-python main.py
+python3 main.py
